@@ -18,5 +18,5 @@
 
 [twitter]: https://twitter.com/leo_cortelezzi
 [instagram]: https://www.instagram.com/leocortelezzi
-[linkedin]: www.linkedin.com/in/leonardocortelezzi
+[linkedin]: https://www.linkedin.com/in/leonardocortelezzi/
 
