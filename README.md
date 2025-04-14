@@ -9,8 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/LeonardoCortelezzi/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LeonardoCortelezzi/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-- <b>Proton VPN</b>
+- <b>Proton-VPN</b>
+  - [Proton-VPN Set Up](https://github.com/LeonardoCortelezzi/Proton-VPN)
 
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
